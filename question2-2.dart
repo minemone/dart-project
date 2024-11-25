@@ -16,7 +16,5 @@ void main() {
     default:
       print("$char is a consonant");
   }
-
- 
   
 }
